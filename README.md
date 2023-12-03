@@ -117,7 +117,7 @@ Ideally, yes.
 
 Acceptance to do paid and unpaid side projects at any level, degree of involvement, or context as long as it does not interfere, harm, or otherwise clearly and negatively affect work performance.
 
-## Non-compete and similar concepts
+### Non-compete and similar concepts
 
 No non-compete clauses or similar.
 
