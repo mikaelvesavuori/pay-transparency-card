@@ -49,7 +49,7 @@ my@name.xyz
 
 ## Position
 
-Software Engineer II / CTO / Staff Engineer / Junior QA Engineer / whatever your desires role(s) are.
+Software Engineer II / CTO / Staff Engineer / Junior QA Engineer / whatever your desired role(s) are.
 
 ## Compensation
 
