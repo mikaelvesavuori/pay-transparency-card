@@ -19,11 +19,15 @@ Simple! Use it any way you like. Some suggestions:
 - Copy the template and make it part of your CV.
 - Make a nice widget that renders the information on your GitHub page, website, or wherever!
 
+See a [Gist demo here](https://gist.github.com/mikaelvesavuori/ffdbb4b4441a1d46fe557f3f6806c300).
+
 ## The template
 
 Feel free to modify as necessary. This should cover many situations, but not necessarily all of them.
 
 ```markdown
+# Pay Transparency Card
+
 ## Who am I?
 
 ### Name
