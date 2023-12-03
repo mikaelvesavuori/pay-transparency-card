@@ -6,7 +6,7 @@ One of the big pains of being in the market is that you get unwarranted recruitm
 
 _More and more of the tech world is going all-in on pay transparency (it's even becoming law in the EU)—why not do it yourself, too?_
 
-The **Pay Transparency Card** is a simple Markdown-based "card", or set of facts, that you want to convey when actively (or passively!) job-hunting. It helps you communicate what type of role you're after and what compensation expectations you have, _before_ anyone contacts you! Or you just want to feel more confident when you get a call, since you've thought out all the facts already. Or you just want to ward off folks with the entirely wrong idea of what you might want to do.
+The **Pay Transparency Card** is a simple Markdown-based "card", or set of facts, that you want to convey when actively (or passively!) job-hunting. It helps you communicate what type of role you're after and what compensation expectations you have _before_ anyone contacts you! Or you just want to feel more confident when you get a call, since you've thought out all the facts already. Or you just want to ward off folks with the entirely wrong idea of what you might want to do.
 
 You do you!
 
